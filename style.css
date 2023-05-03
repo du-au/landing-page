@@ -18,6 +18,10 @@
     display: flex;
 }
 
+.hero-container {
+    display: flex;
+}
+
 .hero-main {
     color: #f9faf8;
     font-size: 48px;
