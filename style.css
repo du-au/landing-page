@@ -37,3 +37,8 @@ button {
     background-color: #3882F6;
     color: #f9faf8;
 }
+
+.twice {
+    width: 500px;
+    height: auto;
+}
