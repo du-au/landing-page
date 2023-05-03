@@ -1,0 +1,29 @@
+.header-hero {
+    background-color: #1f2937;
+}
+
+.header-logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.header-links {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero-main {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.hero-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #f9faf8;
+}
