@@ -23,6 +23,7 @@
 
 .hero-container {
     display: flex;
+    padding: 84px 0;
 }
 
 .hero-main {
