@@ -27,6 +27,10 @@
     padding: 84px 0;
 }
 
+.hero-text {
+    flex: 1;
+}
+
 .hero-main {
     color: #f9faf8;
     font-size: 48px;
@@ -46,4 +50,5 @@ button {
 .twice {
     width: 500px;
     height: auto;
+    flex: 1;
 }
