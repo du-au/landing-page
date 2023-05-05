@@ -50,6 +50,10 @@
     font-weight: bold;
 }
 
+.member-row {
+    display: flex;
+}
+
 .profile-img {
     width: 240px;
     height: auto;
