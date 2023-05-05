@@ -50,6 +50,11 @@
     font-weight: bold;
 }
 
+.profile-img {
+    width: 240px;
+    height: auto;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
