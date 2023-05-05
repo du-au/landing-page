@@ -44,6 +44,12 @@
     margin: 12px 0;
 }
 
+.member-header {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bold;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
