@@ -78,6 +78,10 @@
     text-align: center;
 }
 
+.quote-section {
+    background-color: #e5e7eb;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
