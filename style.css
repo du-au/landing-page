@@ -57,8 +57,15 @@
     margin: 24px 0;
 }
 
+.member-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
 .member-row {
     display: flex;
+    gap: 32px;
 }
 
 .profile-img {
