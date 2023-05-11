@@ -65,6 +65,10 @@
     height: auto;
 }
 
+.profile-subtext {
+    text-align: center;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
