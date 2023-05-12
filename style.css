@@ -99,6 +99,10 @@
     align-self: flex-end;
 }
 
+.action-container {
+    background-color: #3882F6;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
