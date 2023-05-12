@@ -83,6 +83,11 @@
     padding: 84px 200px 60px;
 }
 
+.quote-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .quote-text {
     color: #1f2937;
     font-size: 36px;
