@@ -103,6 +103,11 @@
     background-color: #3882F6;
 }
 
+.action-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
