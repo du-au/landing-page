@@ -101,6 +101,7 @@
 
 .action-container {
     background-color: #3882F6;
+    display: flex;
 }
 
 .action-main {
