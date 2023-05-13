@@ -99,6 +99,10 @@
     align-self: flex-end;
 }
 
+.action-section {
+    padding: 60px 120px;
+}
+
 .action-container {
     background-color: #3882F6;
     display: flex;
