@@ -122,6 +122,10 @@
     font-size: 18px;
 }
 
+.footer {
+    background-color: #1f2937;
+}
+
 button {
     background-color: #3882F6;
     color: #f9faf8;
