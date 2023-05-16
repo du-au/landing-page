@@ -130,6 +130,14 @@ button {
     border-radius: 12px;
 }
 
+.hero-container button {
+    border: 1px solid #3882F6;
+}
+
+.action-container button {
+    border: 1px solid #f9faf8;
+}
+
 .twice {
     width: 240px;
     height: auto;
