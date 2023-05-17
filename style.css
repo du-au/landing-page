@@ -146,6 +146,10 @@ button {
     border: 1px solid #f9faf8;
 }
 
+a {
+    text-decoration: none;
+}
+
 .twice {
     width: 240px;
     height: auto;
