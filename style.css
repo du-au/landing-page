@@ -83,66 +83,48 @@ body {
     text-align: center;
 }
 
-.nayeon {
-    background-color: #49c0ec;
+.name {
     color: white;
     font-size: 24px;
     border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.nayeon {
+    background-color: #49c0ec;
 }
 
 .jeongyeon {
     background-color: #a3cc54;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
 .momo {
     background-color: #e67ea3;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
 .sana {
     background-color: #8c79b4;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
 .jihyo {
     background-color: #f9cc85;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
 .mina {
     background-color: #71c7d4;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
-.dahyun {
+.name.dahyun {
     background-color: #fefefe;
-    font-size: 24px;
-    border: 1px solid black;
+    color: black;
 }
 
 .chaeyoung {
     background-color: #e62722;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
 .tzuyu {
     background-color: #2253a3;
-    color: white;
-    font-size: 24px;
-    border: 1px solid black;
 }
 
 .quote-section {
